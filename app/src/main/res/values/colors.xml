@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color palette -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <!-- Additional colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Our app specific colors -->
+    <color name="background">#F5F5F5</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="primary">#2196F3</color>
+    <color name="primary_dark">#1976D2</color>
+    <color name="accent">#FF4081</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="divider">#BDBDBD</color>
+
+    <!-- For question background -->
+    <color name="question_background_color">#E3F2FD</color>
+    <color name="question_text_color">#1976D2</color>
+
+    <!-- For buttons -->
+    <color name="button_enabled">#2196F3</color>
+    <color name="button_disabled">#E0E0E0</color>
+    <color name="button_text">#FFFFFF</color>
+
+    <!-- For radio buttons -->
+    <color name="radio_button_selected">#2196F3</color>
+    <color name="radio_button_unselected">#757575</color>
+</resources>

@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">QuizMaster</string>
+    <string name="welcome_message">Welcome to QuizMaster!</string>
+    <string name="click_me">Click Me!</string>
+    <string name="button_clicked">Button was clicked!</string>
+    <string name="counter_text">Click count: %d</string>
+
+    <!-- Add these for your quiz app -->
+    <string name="question_counter">Question %d/%d</string>
+    <string name="submit_quiz">Submit Quiz</string>
+    <string name="next_question">Next</string>
+    <string name="previous_question">Previous</string>
+    <string name="quiz_results">Quiz Results</string>
+    <string name="restart_quiz">Restart Quiz</string>
+    <string name="your_score">Your Score: %d/%d</string>
+
+    <string name="loading_question">Loading question…</string>
+    <string name="option_1">Option 1</string>
+    <string name="option_2">Option 2</string>
+    <string name="option_3">Option 3</string>
+    <string name="option_4">Option 4</string>
+    <string name="question_image_description">Question related image</string>
+
+    <!-- NEW STRINGS FOR RESULT SCREEN -->
+    <string name="score_percentage">%d%%</string>
+    <string name="api_info">Questions from OpenTDB API</string>
+    <string name="default_performance">Good job!</string>
+</resources>
